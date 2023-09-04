@@ -1,0 +1,136 @@
+#page-user-profile #page-header .card{
+    border:none !important;
+}
+#page-user-profile {
+    background-color: #F2F2F2 !important;
+}
+#page-user-profile #page-header .prof_head{
+    margin: 1rem 1rem !important;
+    font-weight: 500;
+   
+}
+#page-user-profile .prof_sec p{
+    color:#A2ABB9 !important;
+   
+}
+#page-user-profile .node_category.card .card-body p{
+    color:#A2ABB9 !important;
+
+}
+#page-user-profile .prof_sec {
+    padding:0.8rem;
+   
+}
+#page-user-profile .page-header-headings{
+    display: none !important;
+
+}
+#page-user-profile .userprofile .profile_tree {
+    column-count: 1 !important;
+    display: none;
+}
+#page-user-profile  .node_category.card{
+    border:none !important;
+
+}
+#page-user-profile .lead{
+
+    display:none !important;
+
+}
+#page-user-profile #region-main-box #region-main {
+    border:none !important;
+}
+
+#page-user-profile #region-main-box #region-main .card-body{
+    background: #FFFFFF !important;
+    border-radius: 20px !important;
+    padding: 2rem;
+    position:relative;
+}
+
+
+
+#page-user-profile .page-context-header .page-header-image, .page-context-header .page-header-headings {
+  
+     float:none !important;
+     text-align: center !important;
+}
+#page-user-profile .page-context-header .page-header-image .userpicture{
+    height:170px !important;
+    width:170px !important;
+
+}
+
+#page-user-profile .card .card-body .d-sm-flex.align-items-center .mr-auto {
+    margin: auto !important;
+}
+#page-user-profile .card .card-body .header-button-group{
+    display:none !important;
+    
+}
+#page-user-profile .card{
+    background-color: #F2F2F2 !important;
+
+}
+#page-user-profile #region-main-box #region-main{
+    background-color: #F2F2F2 !important;
+
+}
+#page-user-profile .card .card-body .prof_sec{
+    background: #FFFFFF !important;
+    border-radius: 20px !important;
+    padding: 2rem;
+    
+}
+#page-user-profile  .page-header-image{
+    display:none;
+
+}
+#page-user-profile .card .card-body  .d-flex.flex-wrap {
+    display:none !important;
+}
+#page-user-profile .context-header-settings-menu{
+    display:none !important;
+}
+#page-user-profile  .page-header-image .edit_Prof{
+    padding: 0.5rem;
+    border-radius: 50%;
+    background: white;
+    display: inline-block;
+    position: absolute;
+    color:#404754;
+    font-size: 20px;
+    bottom: 3px;
+    right: 11px;
+  
+}
+#page-user-profile  .node_category.card .card-body {
+    position: relative;
+}
+#page-user-profile  .node_category.card .card-body .edit_Prof_two{
+position: absolute;
+right: 22px;
+top: 20px;
+font-size: 18px;
+color: #404754;
+font-size: 20px;
+}
+
+#page-user-profile .page-header-image .aabtn{
+ position:relative;
+}
+#page-user-profile  .node_category.card .card-body ul{
+    width: 60%;
+    margin: 0 auto;
+  
+  
+
+}
+
+#page-user-profile  .node_category.card .card-body ul .editprofile{
+    display:none !important;
+}
+
+   
+
