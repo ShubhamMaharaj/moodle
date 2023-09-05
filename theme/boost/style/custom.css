@@ -169,6 +169,24 @@ font-size: 24px;
     #page-user-profile .node_category.card .card-body ul {
         width: 100% !important;
     }
+    #page-user-profile #region-main {
+        padding: 0.5rem 1.25rem!important;
+    }
+}
+
+@media (max-width:500px){
+    #page-user-profile #region-main {
+        padding: 0 1.25rem!important;
+    }
+    #page-user-profile .page-context-header .page-header-image .userpicture {
+        height: 150px!important;
+        width: 150px!important;
+    }
+    #page-user-profile #page-header .prof_head {
+        margin: 1.7rem 3rem -1rem 2rem!important;
+        font-weight: 600;
+        font-size: 18px;
+    }
 }
 
 
