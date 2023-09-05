@@ -17,7 +17,7 @@ $( document ).ready(function() {
 
 
      
-     var imgElement = $("#page-user-profile .defaultuserpic");
+     var imgElement = $(".defaultuserpic");
      console.log(mdlcfg.wwwroot)
     
      if (imgElement.length > 0) {
