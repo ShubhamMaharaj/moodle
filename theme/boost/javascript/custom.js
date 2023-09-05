@@ -21,7 +21,7 @@ $( document ).ready(function() {
      console.log(mdlcfg.wwwroot)
     
      if (imgElement.length > 0) {
-        imgElement.attr("src", mdlcfg.wwwroot + '/theme/boost/pix_custom/Mainuser.png');
+        imgElement.attr("src", mdlcfg.wwwroot + '/theme/boost/pix_custom/Mainuser.jpg');
 
         $("#page-user-profile .page-header-image").css("display", "block");
       
