@@ -1,6 +1,7 @@
 $( document ).ready(function() {
     require(['core/config'], function (mdlcfg) {
-    console.log( "ready!" );
+        $("#page-user-profile #page-header .col-12.pt-3").removeClass("pb-3");
+
     var h1Element = $("<h2 class='prof_head'>My Profile</h2>");
     
 
