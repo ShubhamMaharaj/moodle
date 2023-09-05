@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+#page-user-profile {
+    font-family: 'Poppins', sans-serif;
+}
+
 #page-user-profile #page-header .card{
     border:none !important;
 }
@@ -5,16 +11,24 @@
     background-color: #F2F2F2 !important;
 }
 #page-user-profile #page-header .prof_head{
-    margin: 1rem 1rem !important;
-    font-weight: 500;
+    margin: 1.7rem 3rem -0.2rem 2rem !important;
+    font-weight: 600;
+    font-size: 26px;
    
 }
+#page-user-profile #page-header .card-body{
+    padding:1.1rem !important;
+}
 #page-user-profile .prof_sec p{
-    color:#A2ABB9 !important;
+    color:#747c84 !important;
+   
+}
+#page-user-profile .prof_Sec_head{
+    font-weight: 600;
    
 }
 #page-user-profile .node_category.card .card-body p{
-    color:#A2ABB9 !important;
+    color:#747c84 !important;
 
 }
 #page-user-profile .prof_sec {
@@ -45,8 +59,8 @@
 #page-user-profile #region-main-box #region-main .card-body{
     background: #FFFFFF !important;
     border-radius: 20px !important;
-    padding: 2rem;
-    position:relative;
+    padding: 1.9rem 1.7rem;
+    line-height: 2;
 }
 
 
@@ -57,8 +71,8 @@
      text-align: center !important;
 }
 #page-user-profile .page-context-header .page-header-image .userpicture{
-    height:170px !important;
-    width:170px !important;
+    height:200px !important;
+    width:200px !important;
 
 }
 
@@ -80,7 +94,8 @@
 #page-user-profile .card .card-body .prof_sec{
     background: #FFFFFF !important;
     border-radius: 20px !important;
-    padding: 2rem;
+    padding: 2rem 1.7rem;
+    line-height: 2;
     
 }
 #page-user-profile  .page-header-image{
@@ -94,15 +109,15 @@
     display:none !important;
 }
 #page-user-profile  .page-header-image .edit_Prof{
-    padding: 0.5rem;
+    padding: .5rem;
     border-radius: 50%;
-    background: white;
+    background: #fff;
     display: inline-block;
     position: absolute;
-    color:#404754;
-    font-size: 20px;
+    color: #404754;
+    font-size: 24px;
     bottom: 3px;
-    right: 11px;
+    right: 15px;
   
 }
 #page-user-profile  .node_category.card .card-body {
@@ -114,7 +129,7 @@ right: 22px;
 top: 20px;
 font-size: 18px;
 color: #404754;
-font-size: 20px;
+font-size: 24px;
 }
 
 #page-user-profile .page-header-image .aabtn{
@@ -123,14 +138,40 @@ font-size: 20px;
 #page-user-profile  .node_category.card .card-body ul{
     width: 60%;
     margin: 0 auto;
+    margin-top: 2rem !important;
   
   
 
 }
+#page-user-profile  .node_category.card .card-body ul li{
+    padding:0px !important;
+  line-height: 2.5 !important;
+  
+  
+
+}
+#page-user-profile  .node_category.card .card-body ul li dd{ 
+    color: #747c84 !important;
+    
+    
+  
+  }
+
 
 #page-user-profile  .node_category.card .card-body ul .editprofile{
     display:none !important;
 }
+#page-user-profile #region-main{
+    padding: 0rem 1.25rem !important;
+}
+
+@media (max-width:850px){
+    #page-user-profile .node_category.card .card-body ul {
+        width: 100% !important;
+    }
+}
+
+
 
    
 
