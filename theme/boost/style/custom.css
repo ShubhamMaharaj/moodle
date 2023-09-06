@@ -8,7 +8,7 @@
     border:none !important;
 }
 #page-user-profile {
-    background-color: #FBFBFD !important;
+    background-color: #F2F2F2 !important;
 }
 #page-user-profile #page-header .prof_head{
     margin: 1.7rem 3rem -0.2rem 2rem !important;
@@ -84,11 +84,11 @@
     
 }
 #page-user-profile .card{
-    background-color: #FBFBFD !important;
+    background-color: #F2F2F2!important;
 
 }
 #page-user-profile #region-main-box #region-main{
-    background-color: #FBFBFD !important;
+    background-color: #F2F2F2!important;
 
 }
 #page-user-profile .card .card-body .prof_sec{
@@ -163,6 +163,9 @@ font-size: 24px;
 }
 #page-user-profile #region-main{
     padding: 0rem 1.25rem !important;
+}
+#page-user-profile .userprofile .description{
+    display: none !important;
 }
 
 @media (max-width:850px){

@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 require_once(__DIR__ . '/lib.php');
 
 $THEME->name = 'boost';
-$THEME->sheets = array('custom');
+$THEME->sheets = array('custom','editprofilePage');
 $THEME->javascripts = array('jQuery3.2.1aa','custom');
 // $THEME->sheets = ['custom'];
 // $THEME->javascript = ['js/custom.js'];

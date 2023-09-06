@@ -1,0 +1,59 @@
+/* #page-user-editadvanced .page-header-headings{
+    display:none !important;
+} */
+
+#page-user-editadvanced .btn-group.header-button-group{
+    display:none !important;
+}
+#page-user-editadvanced  {
+    background-color: #F2F2F2 !important;
+}
+
+#page-user-editadvanced .card{
+    background-color: #F2F2F2 !important;
+}
+#page-user-editadvanced .page-context-header .page-header-image .userpicture {
+    height: 200px!important;
+    width: 200px!important;
+}
+
+#page-user-editadvanced .d-flex.flex-wrap{
+    display:none !important;
+}
+#page-user-editadvanced .card{
+    border:none !important
+}
+
+#page-user-editadvanced .mr-auto{
+    margin: auto !important;
+    
+}
+#page-user-editadvanced  .page-context-header .page-header-image, .page-context-header .page-header-headings {
+    float:none !important;
+
+}
+#page-user-editadvanced  .page-header-image{
+    text-align: center !important;
+
+}
+#page-user-editadvanced .card {
+    padding:1.1rem 1.1rem 0rem 1.1rem;
+}
+#page-user-editadvanced .card .card-body  {
+    background: #FFFFFF!important;
+    border-radius: 20px!important;
+    padding: 2rem 2.7rem;
+    line-height: 2;
+}
+#page-user-editadvanced  #region-main-box{
+    padding: 0rem 2.1rem;
+
+}
+#page-user-editadvanced  #region-main-box #region-main {
+    border:none !important;
+    background: #FFFFFF!important;
+    border-radius: 20px!important;
+    padding: 2rem 2.7rem;
+    line-height: 2;
+    
+}
